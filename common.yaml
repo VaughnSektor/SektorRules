@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,withpoly.com
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-KEYWORD,gumroad
+  - DOMAIN-SUFFIX,clashverge.dev
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
