@@ -8,14 +8,15 @@ payload:
 
 # 开发技术社区
   - DOMAIN-SUFFIX,fab.com
-  - DOMAIN-SUFFIX,cascaduer.com
+  - DOMAIN-KEYWORD,cascaduer.com
   - DOMAIN-SUFFIX,cgtrader.com
-  - DOMAIN-SUFFIX,artstation.com
-  - DOMAIN-SUFFIX,gitbook.io
-  - DOMAIN-SUFFIX,deviantart.com
-  - DOMAIN-SUFFIX,sketchfab.com
+  - DOMAIN-KEYWORD,artstation
+  - DOMAIN-KEYWORD,gitbook
+  - DOMAIN-KEYWORD,deviantart
+  - DOMAIN-KEYWORD,sketchfab
   - DOMAIN-SUFFIX,withpoly.com
-  - DOMAIN-SUFFIX,ko-fi
+  - DOMAIN-SUFFIX,ko-fi.com
+  - DOMAIN-KEYWORD,gumroad
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
@@ -24,11 +25,12 @@ payload:
   - DOMAIN-SUFFIX,moddb.com
   - DOMAIN-SUFFIX,sapphire.xiv.dev
   - DOMAIN-SUFFIX,gamemale.com
-  - DOMAIN-SUFFIX,nexusmods.com
+  - DOMAIN-KEYWORD,nexusmods
   - DOMAIN-SUFFIX,fflogs.com
   - DOMAIN-SUFFIX,metacritic.com
 
 # 杂乱列表
-  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-KEYWORD,greasyfork
   - DOMAIN-SUFFIX,dopus.com
+  - DOMAIN-SUFFIX,directory-opus.com
   - DOMAIN-SUFFIX,yandex.com
