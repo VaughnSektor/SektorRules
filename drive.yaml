@@ -1,8 +1,5 @@
 # 定制网盘的yaml
 payload:
   - DOMAIN-KEYWORD,pixeldrain
-  - DOMAIN-SUFFIX,sotwe.com
-  - DOMAIN-KEYWORD,kemono
-  - DOMAIN-KEYWORD,coomer
   - DOMAIN-KEYWORD,gofile
   - DOMAIN-KEYWORD,bunkr
