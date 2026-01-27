@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-KEYWORD,gumroad
   - DOMAIN-SUFFIX,clashverge.dev
-  - DOMAIN-KEYWORD,suno
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
@@ -30,6 +29,10 @@ payload:
   - DOMAIN-KEYWORD,nexusmods
   - DOMAIN-SUFFIX,fflogs.com
   - DOMAIN-SUFFIX,metacritic.com
+
+# 无IP限制的AI平台
+  - DOMAIN-KEYWORD,codepen
+  - DOMAIN-KEYWORD,suno
 
 # 杂乱列表
   - DOMAIN-KEYWORD,greasyfork
