@@ -1,5 +1,6 @@
 # NFSW yaml
 payload:
+  - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-KEYWORD,simpcity
   - DOMAIN-SUFFIX,poipiku.com
   - DOMAIN-SUFFIX,fandom.com
@@ -12,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,boomio-cdn.com
   - DOMAIN-SUFFIX,newgrounds.com
   - DOMAIN-SUFFIX,south-plus.net
-  - DOMAIN-KEYWORD,gumroad
   - DOMAIN-SUFFIX,smutba.se
   - DOMAIN-SUFFIX,sfmlab.com
   - DOMAIN-KEYWORD,iwara
@@ -22,10 +22,11 @@ payload:
   - DOMAIN-SUFFIX,thisvid.com
   - DOMAIN-KEYWORD,xhamster
   - DOMAIN-SUFFIX,xhcdn.com
-  - DOMAIN-KEYWORD,e-hentai
+  - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,catbox.moe
   - DOMAIN-KEYWORD,exhentai
   - DOMAIN-SUFFIX,analonly.org
-  - DOMAIN-SUFFIX,manyvids.com
-  - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-KEYWORD,manyvids
+  - DOMAIN-KEYWORD,onlyfans
   - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,clipconverter.cc
