@@ -1,6 +1,9 @@
 # NFSW yaml
 payload:
   - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-KEYWORD,kemono
+  - DOMAIN-KEYWORD,coomer
+  - DOMAIN-KEYWORD,sotwe
   - DOMAIN-KEYWORD,simpcity
   - DOMAIN-SUFFIX,poipiku.com
   - DOMAIN-SUFFIX,fandom.com
