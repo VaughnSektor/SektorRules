@@ -1,0 +1,34 @@
+# 自定义中游代理列表
+payload:
+# Steam流量部分
+  - DOMAIN-SUFFIX,store.steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamdb.info
+
+# 开发技术社区
+  - DOMAIN-SUFFIX,fab.com
+  - DOMAIN-SUFFIX,cascaduer.com
+  - DOMAIN-SUFFIX,cgtrader.com
+  - DOMAIN-SUFFIX,artstation.com
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,deviantart.com
+  - DOMAIN-SUFFIX,sketchfab.com
+  - DOMAIN-SUFFIX,withpoly.com
+  - DOMAIN-SUFFIX,ko-fi
+
+# 游戏社区
+  - DOMAIN-SUFFIX,eorzeacollection.com
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,nexus-cdn.com
+  - DOMAIN-SUFFIX,moddb.com
+  - DOMAIN-SUFFIX,sapphire.xiv.dev
+  - DOMAIN-SUFFIX,gamemale.com
+  - DOMAIN-SUFFIX,nexusmods.com
+  - DOMAIN-SUFFIX,fflogs.com
+  - DOMAIN-SUFFIX,metacritic.com
+
+# 杂乱列表
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,dopus.com
+  - DOMAIN-SUFFIX,yandex.com
