@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-KEYWORD,gumroad
   - DOMAIN-SUFFIX,clashverge.dev
+  - DOMAIN-KEYWORD,suno
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
