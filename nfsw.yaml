@@ -10,13 +10,13 @@ payload:
   - DOMAIN-SUFFIX,av1.wtf
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,tortoisesvn.net
-  - DOMAIN-SUFFIX,rule34.xxx
-  - DOMAIN-SUFFIX,rule34video.com
+  - DOMAIN-KEYWORD,rule34
+  #- DOMAIN-SUFFIX,rule34video.com
   - DOMAIN-SUFFIX,pmvhaven.com
   - DOMAIN-SUFFIX,boomio-cdn.com
   - DOMAIN-SUFFIX,newgrounds.com
-  - DOMAIN-SUFFIX,south-plus.net
-  - DOMAIN-SUFFIX,smutba.se
+  - DOMAIN-KEYWORD,south-plus
+  - DOMAIN-KEYWORD,smutba
   - DOMAIN-SUFFIX,sfmlab.com
   - DOMAIN-KEYWORD,iwara
   - DOMAIN-KEYWORD,f95zone
