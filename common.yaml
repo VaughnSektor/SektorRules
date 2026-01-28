@@ -37,5 +37,6 @@ payload:
 # 杂乱列表
   - DOMAIN-KEYWORD,greasyfork
   - DOMAIN-SUFFIX,dopus.com
+  - DOMAIN-SUFFIX,gpsoft.com.au
   - DOMAIN-SUFFIX,directory-opus.com
   - DOMAIN-SUFFIX,yandex.com
