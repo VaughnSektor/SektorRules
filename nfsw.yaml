@@ -7,11 +7,11 @@ payload:
   - DOMAIN-KEYWORD,simpcity
   - DOMAIN-SUFFIX,poipiku.com
   - DOMAIN-SUFFIX,fandom.com
+  - DOMAIN-SUFFIX,erome.com
   - DOMAIN-SUFFIX,av1.wtf
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,tortoisesvn.net
   - DOMAIN-KEYWORD,rule34
-  #- DOMAIN-SUFFIX,rule34video.com
   - DOMAIN-SUFFIX,pmvhaven.com
   - DOMAIN-SUFFIX,boomio-cdn.com
   - DOMAIN-SUFFIX,newgrounds.com
