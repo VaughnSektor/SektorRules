@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-KEYWORD,kemono
   - DOMAIN-KEYWORD,coomer
-  - DOMAIN-KEYWORD,sotwe
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-KEYWORD,simpcity
   - DOMAIN-SUFFIX,poipiku.com
   - DOMAIN-SUFFIX,fandom.com
@@ -33,3 +33,4 @@ payload:
   - DOMAIN-KEYWORD,onlyfans
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,clipconverter.cc
+  - DOMAIN-SUFFIX,anime-sharing.com
