@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,boomio-cdn.com
   - DOMAIN-SUFFIX,newgrounds.com
   - DOMAIN-KEYWORD,south-plus
+  - DOMAIN-KEYWORD,north-plus
   - DOMAIN-KEYWORD,smutba
   - DOMAIN-SUFFIX,sfmlab.com
   - DOMAIN-KEYWORD,iwara
