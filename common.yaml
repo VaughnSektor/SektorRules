@@ -29,6 +29,7 @@ payload:
   - DOMAIN-KEYWORD,nexusmods
   - DOMAIN-SUFFIX,fflogs.com
   - DOMAIN-SUFFIX,metacritic.com
+  - DOMAIN-SUFFIX,steambrew.app
 
 # 无IP限制的AI平台
   - DOMAIN-KEYWORD,codepen
