@@ -1,3 +1,3 @@
 # 自定义可能需要直连的游戏列表
 payload:
-  - DOMAIN-SUFFIX,epicgamescdn.com
+  - DOMAIN-KEYWORD,epicgames
