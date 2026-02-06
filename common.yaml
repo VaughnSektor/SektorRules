@@ -31,6 +31,8 @@ payload:
   - DOMAIN-SUFFIX,fflogs.com
   - DOMAIN-SUFFIX,metacritic.com
   - DOMAIN-SUFFIX,steambrew.app
+  - DOMAIN-SUFFIX,qoo-apk.com
+  - DOMAIN-SUFFIX,qoo-img.com
 
 # 无IP限制的AI平台
   - DOMAIN-KEYWORD,codepen
