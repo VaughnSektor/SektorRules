@@ -19,6 +19,10 @@ payload:
   - DOMAIN-KEYWORD,gumroad
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,wixmp.com
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkpures.xyz
+  - DOMAIN-SUFFIX,apkmirror.com
+  - DOMAIN-SUFFIX,disqus.com
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
