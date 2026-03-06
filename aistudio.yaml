@@ -1,4 +1,4 @@
 # 有IP限制的的AI平台
 payload:
-  - DOMAIN-SUFFIX,hyper3d.ai
   - DOMAIN-SUFFIX,tripo3d.ai
+  - DOMAIN-SUFFIX,hyper3d.ai
