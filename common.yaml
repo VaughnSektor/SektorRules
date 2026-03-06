@@ -41,6 +41,7 @@ payload:
 # 无IP限制的AI平台
   - DOMAIN-KEYWORD,codepen
   - DOMAIN-KEYWORD,suno
+  - DOMAIN-SUFFIX,tripo3d.ai
 
 # 杂乱列表
   - DOMAIN-KEYWORD,greasyfork
