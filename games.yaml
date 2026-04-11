@@ -2,3 +2,4 @@
 payload:
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+  - DOMAIN-KEYWORD,egdownload
