@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,nexus-cdn.com
   - DOMAIN-SUFFIX,moddb.com
+  - DOMAIN-SUFFIX,pcgamingwiki.com
   - DOMAIN-SUFFIX,sapphire.xiv.dev
   - DOMAIN-SUFFIX,gamemale.com
   - DOMAIN-KEYWORD,nexusmods
