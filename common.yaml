@@ -53,3 +53,7 @@ payload:
   - DOMAIN-SUFFIX,directory-opus.com
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,animationstudios.com
+
+  # 公共服务
+ - DOMAIN-SUFFIX,unpkg.com
+ - DOMAIN-SUFFIX,cloudflare.com
