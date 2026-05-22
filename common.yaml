@@ -57,3 +57,4 @@ payload:
   # 公共服务
  - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-SUFFIX,cloudflare-ech.com
