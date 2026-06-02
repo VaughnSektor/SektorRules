@@ -1,5 +1,6 @@
 # 直连列表
 payload:
   - DOMAIN-KEYWORD,payoneer
-  - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,scriptcat
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN-SUFFIX,imtintl.com
