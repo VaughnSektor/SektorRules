@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,qoo-img.com
   - DOMAIN-SUFFIX,tomodachishare.com
   - DOMAIN-SUFFIX,xivmodarchive.com
+  - DOMAIN-SUFFIX,callofduty.com
 
 # 无IP限制的AI平台
   - DOMAIN-KEYWORD,codepen
