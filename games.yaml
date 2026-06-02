@@ -1,5 +1,8 @@
 # 自定义可能需要直连的游戏列表
 payload:
   - DOMAIN-KEYWORD,epicgames
-  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
   - DOMAIN-KEYWORD,egdownload
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
