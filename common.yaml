@@ -55,6 +55,10 @@ payload:
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,animationstudios.com
   - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  
 
   # 公共服务
  - DOMAIN-SUFFIX,unpkg.com
