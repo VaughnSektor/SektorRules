@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,tomodachishare.com
   - DOMAIN-SUFFIX,xivmodarchive.com
   - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,edc-cdn.net
 
 # 无IP限制的AI平台
   - DOMAIN-KEYWORD,codepen
@@ -53,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,directory-opus.com
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,animationstudios.com
+  - DOMAIN-SUFFIX,hcaptcha.com
 
   # 公共服务
  - DOMAIN-SUFFIX,unpkg.com
