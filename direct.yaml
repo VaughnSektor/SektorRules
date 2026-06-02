@@ -9,6 +9,6 @@ payload:
   - DOMAIN-SUFFIX,steelseries.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-SUFFIX,obsidian.com
+  - DOMAIN-KEYWORD,obsidian
   - DOMAIN-KEYWORD,darkreader
   - DOMAIN-SUFFIX,tizen.org
