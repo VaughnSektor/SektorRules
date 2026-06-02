@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,egdownload
   - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
