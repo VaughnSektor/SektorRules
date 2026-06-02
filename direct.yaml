@@ -1,5 +1,7 @@
 # 直连列表
 payload:
+  - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-KEYWORD,payoneer
   - DOMAIN-KEYWORD,scriptcat
   - DOMAIN-SUFFIX,immersivetranslate.com
