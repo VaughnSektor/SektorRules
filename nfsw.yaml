@@ -1,39 +1,31 @@
 # NFSW yaml
 payload:
-  - DOMAIN-SUFFIX,imgur.com
+# KEY节点
   - DOMAIN-KEYWORD,kemono
   - DOMAIN-KEYWORD,coomer
-  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-KEYWORD,simpcity
-  - DOMAIN-KEYWORD,pixiv
-  - DOMAIN-SUFFIX,poipiku.com
-  - DOMAIN-SUFFIX,fandom.com
-  - DOMAIN-SUFFIX,erome.com
-  - DOMAIN-SUFFIX,av1.wtf
-  - DOMAIN-SUFFIX,huggingface.co
-  - DOMAIN-SUFFIX,tortoisesvn.net
   - DOMAIN-KEYWORD,rule34
-  - DOMAIN-SUFFIX,pmvhaven.com
-  - DOMAIN-SUFFIX,boomio-cdn.com
-  - DOMAIN-SUFFIX,newgrounds.com
   - DOMAIN-KEYWORD,south-plus
   - DOMAIN-KEYWORD,north-plus
   - DOMAIN-KEYWORD,smutba
-  - DOMAIN-SUFFIX,sfmlab.com
   - DOMAIN-KEYWORD,iwara
   - DOMAIN-KEYWORD,f95zone
   - DOMAIN-KEYWORD,fantia
   - DOMAIN-KEYWORD,fanbox
-  - DOMAIN-SUFFIX,thisvid.com
   - DOMAIN-KEYWORD,xhamster
-  - DOMAIN-SUFFIX,xhcdn.com
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,ehgt.org
-  - DOMAIN-SUFFIX,catbox.moe
-  - DOMAIN-KEYWORD,exhentai
-  - DOMAIN-SUFFIX,analonly.org
   - DOMAIN-KEYWORD,manyvids
   - DOMAIN-KEYWORD,onlyfans
+# SUFFIX节点
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,sotwe.com
+  - DOMAIN-SUFFIX,poipiku.com
+  - DOMAIN-SUFFIX,fandom.com
+  - DOMAIN-SUFFIX,erome.com
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,pmvhaven.com
+  - DOMAIN-SUFFIX,boomio-cdn.com
+  - DOMAIN-SUFFIX,newgrounds.com
+  - DOMAIN-SUFFIX,analonly.org
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,clipconverter.cc
   - DOMAIN-SUFFIX,anime-sharing.com
@@ -46,3 +38,11 @@ payload:
   - DOMAIN-SUFFIX,sts93.com
   - DOMAIN-SUFFIX,sts1.xyz
   - DOMAIN-SUFFIX,ttsiwa.co
+  - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,ehgt.org
+  - DOMAIN-SUFFIX,catbox.moe
+  - DOMAIN-SUFFIX,thisvid.com
+  - DOMAIN-SUFFIX,sfmlab.com
+  - DOMAIN-SUFFIX,cdnsolutions.media
+  - DOMAIN-SUFFIX,doppiocdn.com
