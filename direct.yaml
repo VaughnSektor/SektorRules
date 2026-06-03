@@ -1,16 +1,21 @@
 # 直连列表
 payload:
-  - DOMAIN-SUFFIX,doh.pub
-  - DOMAIN-SUFFIX,dns.alidns.com
+  # KEY
   - DOMAIN-KEYWORD,payoneer
   - DOMAIN-KEYWORD,scriptcat
+  - DOMAIN-KEYWORD,obsidian
+  - DOMAIN-KEYWORD,darkreader
+  # SUFFIX
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,imtintl.com
   - DOMAIN-SUFFIX,steelseries.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-KEYWORD,obsidian
-  - DOMAIN-KEYWORD,darkreader
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN-SUFFIX,imtintl.com
+  - DOMAIN-SUFFIX,steelseries.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,tizen.org
   - DOMAIN-SUFFIX,ac-baidu.90dao.com
   - DOMAIN-SUFFIX,gkd-subscription-667.pages.dev
