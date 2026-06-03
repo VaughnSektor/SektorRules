@@ -64,3 +64,4 @@ payload:
  - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,cloudflare-ech.com
+ - DOMAIN-SUFFIX,doh.opendns.com
