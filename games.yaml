@@ -1,7 +1,6 @@
 # 自定义可能需要直连的游戏列表
 payload:
   # Steam强制直连的部分
-  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
