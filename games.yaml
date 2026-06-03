@@ -1,9 +1,12 @@
 # 自定义可能需要直连的游戏列表
 payload:
+  # Steam强制直连的部分
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,cs.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  # 其他游戏域名
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,egdownload
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamusercontent.com
-  - DOMAIN,steamcdn-a.akamaihd.net
-  - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-SUFFIX,steamserver.net
