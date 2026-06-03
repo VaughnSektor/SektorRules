@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,cs.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steamconnecttest.com
   # 其他游戏域名
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,egdownload
