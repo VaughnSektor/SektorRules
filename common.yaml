@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamdb.info
+  - DOMAIN-SUFFIX,steamstatic.com
 
 # 开发技术社区
   - DOMAIN-SUFFIX,fab.com
