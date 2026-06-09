@@ -21,7 +21,7 @@ payload:
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,wixmp.com
   - DOMAIN-SUFFIX,apkpure.com
-  - DOMAIN-SUFFIX,uptodown.app
+  - DOMAIN-KEYWORD,uptodown
   - DOMAIN-SUFFIX,apkpures.xyz
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,disqus.com
