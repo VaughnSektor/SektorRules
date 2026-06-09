@@ -68,3 +68,4 @@ payload:
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,cloudflare-ech.com
  - DOMAIN-SUFFIX,doh.opendns.com
+ - DOMAIN-SUFFIX,dns.google
