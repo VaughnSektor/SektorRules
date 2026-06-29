@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
 
-# 开发技术社区
+# 开发和软件技术社区
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-KEYWORD,cascaduer.com
   - DOMAIN-SUFFIX,cgtrader.com
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,apkpures.xyz
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,disqus.com
+  - DOMAIN-SUFFIX,utdstc.com
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
