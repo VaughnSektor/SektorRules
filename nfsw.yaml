@@ -17,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,onlyfans
 # SUFFIX节点
   - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,poipiku.com
   - DOMAIN-SUFFIX,fandom.com
