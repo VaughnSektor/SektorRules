@@ -5,7 +5,7 @@ payload:
   - DOMAIN-KEYWORD,bunkr
   - DOMAIN-SUFFIX,scdn.st
   - DOMAIN-KEYWORD,pikpak
-  - DOMAIN-SUFFIX,filester.me
+  - DOMAIN-KEYWORD,filester
   - DOMAIN-SUFFIX,turbo.cr
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,c3wi-b.cdn.cr
