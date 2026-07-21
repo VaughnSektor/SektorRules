@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,pixeldrain
   - DOMAIN-KEYWORD,gofile
   - DOMAIN-KEYWORD,bunkr
+  - DOMAIN-KEYWORD,mediafire
   - DOMAIN-SUFFIX,scdn.st
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-KEYWORD,filester
