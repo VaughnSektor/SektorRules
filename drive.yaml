@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,filester
   - DOMAIN-SUFFIX,turbo.cr
   - DOMAIN-SUFFIX,plyr.io
+  - DOMAIN-SUFFIX,c4s9-b.cdn.cr
   - DOMAIN-SUFFIX,c4ta-b.cdn.cr
   - DOMAIN-SUFFIX,c3wi-b.cdn.cr
   - DOMAIN-SUFFIX,c2no2-b.cdn.cr
