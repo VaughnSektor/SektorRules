@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,live-video.net
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,themoviedb.org
   
 
   # 公共服务
