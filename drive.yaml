@@ -1,13 +1,16 @@
 # 定制网盘的yaml
 payload:
+  # Keyword
   - DOMAIN-KEYWORD,pixeldrain
   - DOMAIN-KEYWORD,gofile
   - DOMAIN-KEYWORD,bunkr
   - DOMAIN-KEYWORD,mediafire
   - DOMAIN-KEYWORD,vik1ngfile
-  - DOMAIN-SUFFIX,scdn.st
+  - DOMAIN-KEYWORD,vikingfile
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-KEYWORD,filester
+  ### Suffix
+  - DOMAIN-SUFFIX,scdn.st
   - DOMAIN-SUFFIX,turbo.cr
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,c4s9-b.cdn.cr
