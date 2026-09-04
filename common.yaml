@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,anime1.me
   
 
   # 公共服务
