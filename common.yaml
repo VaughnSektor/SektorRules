@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,xivmodarchive.com
   - DOMAIN-SUFFIX,callofduty.com
   - DOMAIN-SUFFIX,edc-cdn.net
+  - DOMAIN-SUFFIX,itch.io
 
 # 无IP限制的AI平台
   - DOMAIN-KEYWORD,codepen
