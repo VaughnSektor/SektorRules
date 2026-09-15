@@ -28,7 +28,7 @@ payload:
   - DOMAIN-SUFFIX,utdstc.com
   - DOMAIN-SUFFIX,macosicons.com
   - DOMAIN-SUFFIX,open3dlab.com
-  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-KEYWORD,bitwarden
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
