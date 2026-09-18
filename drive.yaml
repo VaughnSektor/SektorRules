@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,mxcontent.net
   - DOMAIN-SUFFIX,dropboxstatic.com
   - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,transfer.it
