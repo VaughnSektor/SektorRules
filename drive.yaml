@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,vikingfile
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-KEYWORD,filester
+  - DOMAIN-KEYWORD,fileditchvids
   ### Suffix
   - DOMAIN-SUFFIX,scdn.st
   - DOMAIN-SUFFIX,turbo.cr
@@ -25,4 +26,3 @@ payload:
   - DOMAIN-SUFFIX,dropboxstatic.com
   - DOMAIN-SUFFIX,dropbox.com
   - DOMAIN-SUFFIX,transfer.it
-  - DOMAIN-SUFFIX,fileditchvids.st
