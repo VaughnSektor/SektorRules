@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,open3dlab.com
   - DOMAIN-KEYWORD,bitwarden
   - DOMAIN-SUFFIX,diversion.dev
+  - DOMAIN-SUFFIX,astrbot.app
 
 # 游戏社区
   - DOMAIN-SUFFIX,eorzeacollection.com
