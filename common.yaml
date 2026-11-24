@@ -2,6 +2,7 @@
 payload:
 # Steam流量部分
   - DOMAIN-SUFFIX,store.steampowered.com
+  - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,steamstatic.com
